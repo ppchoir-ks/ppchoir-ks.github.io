@@ -13,7 +13,7 @@
 
 theme: jekyll-agency
 
-url    : "" # ← REPLACE with your GitHub Pages URL, e.g. https://yourusername.github.io
+url    : "https://ppchoir-ks.github.io" # ← REPLACE with your GitHub Pages URL, e.g. https://yourusername.github.io
 baseurl: "" # ← e.g. /chorale-saint-padre-pio if hosted in a subfolder
 
 title      : Chorale Saint Padre Pio
