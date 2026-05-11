@@ -11,7 +11,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-theme: jekyll-agency
+remote_theme: raviriley/agency-jekyll-theme
 
 url    : "https://ppchoir-ks.github.io" # ← REPLACE with your GitHub Pages URL, e.g. https://yourusername.github.io
 baseurl: "" # ← e.g. /chorale-saint-padre-pio if hosted in a subfolder
