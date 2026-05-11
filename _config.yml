@@ -34,3 +34,7 @@ collections:
   portfolio:
 
 markdown: kramdown
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-feed
